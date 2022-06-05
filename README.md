@@ -17,4 +17,3 @@ IoT power monitoring project with Exempler LLC
 
 •	Geospatial analysis for shipping example
 
-![image](https://user-images.githubusercontent.com/106888027/172068960-a2d41217-0bb2-4a06-88e4-4d92afdcb0c6.png)
